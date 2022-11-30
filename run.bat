@@ -27,8 +27,8 @@ if '%errorlevel%' NEQ '0' (
 
 echo Installing Office...
 echo This will automatically install Office and CMD will close when done.
-echo Like my project? Support me by subscribing to my YouTube!
-echo https://bit.ly/3sGTd2C
+echo Like my project? Support me by subscribing to my website!
+echo www.lomavatatech.com
 
 .\setup.exe /configure .\configuration-Office2021Enterprise.xml 
 
